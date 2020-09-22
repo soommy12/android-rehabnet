@@ -1,0 +1,3 @@
+include ':rehabnet'
+rootProject.name = 'RehabNetTestApp'
+include ':app', ':posenet'
